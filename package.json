@@ -1,0 +1,22 @@
+{
+  "name": "random-str-messages-csl",
+  "version": "1.0.0",
+  "description": "Random string messages in console",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Carlos Lopez",
+  "license": "MIT",
+  "bin": {
+    "random-str-messages-csl": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1",
+    "global.js": "^1.0.0",
+    "random-str-messages-csl": "^1.0.0",
+    "user": "^0.0.0"
+  }
+}
