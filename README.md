@@ -12,7 +12,7 @@ npm install -g random-str-messages-csl
 # Usage
 
 ```bash
- random-str-msg
+ random-str-messages-csl
 ```
 
 # Contributing
